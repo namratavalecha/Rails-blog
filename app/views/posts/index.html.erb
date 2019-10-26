@@ -1,11 +1,6 @@
 <% content_for :page_title, "Index" %>
 
-<script>
-        var pusher = new Pusher('YOUR_APP_KEY', {
-          cluster: 'eu',
-          encrypted: true
-        });
-    </script>
+
 <section class="section">
     <div class="container">
       <% @posts.each do |post| %>
