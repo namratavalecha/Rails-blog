@@ -21,7 +21,7 @@ gem 'better_errors', '~> 2.4'
 
 gem 'bulma-rails', '~> 0.6.1'
 
-gem 'simple_form', '~> 4.1'
+gem 'simple_form', '~> 5.0'
 
 
 
