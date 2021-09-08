@@ -16,7 +16,7 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 # Make errors better
-gem 'better_errors', '~> 2.4'
+gem 'better_errors', '~> 2.8'
 
 
 gem 'bulma-rails', '~> 0.6.1'
